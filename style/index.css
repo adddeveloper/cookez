@@ -1,0 +1,11 @@
+nav  a{
+    text-decoration: none !important;
+    color: white;
+}
+nav li a{
+    color: white !important;
+}
+
+.bg-img{
+    background-image: url(/style/img/slidebakery.jpg);
+}
