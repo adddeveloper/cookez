@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+	<script src="/script/jquery.min.js"></script>
+    <script src="/script/popper.min.js"></script>
+    <script src="/script/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="/style/index.css">
+    <link rel="stylesheet" href="/style/all.css">
+    <link rel="shortcut icon" href="/style/img/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <nav id="nav" class="sticky-top navbar navbar-expand-lg sticky">
+        <div class="container flex-nowrap">    <link rel="shortcut icon" href="/style/img/favicon.ico" type="image/x-icon">
+            <a href="/" class="navabar-brand" style="font-size: 2.5rem;">Top Food Facts</a>
+
+            <div class="ms-auto d-flex justify-content-center align-items-center flex-wrap">
+                <div type="button" class="navbar-toggler btn" data-toggle="collapse" data-target="#navmenu" style="border: none;">
+                    <span class="navbar-toggler-icon" style="background-image: url(/style/img/burger.svg); width: 3rem; height: 5rem;">
+                    </span>
+                </div>                
+            </div>
+            
+        </div>
+        <div class="collapse navbar-collapse" id="navmenu">
+            <ul class="align-items-end container d-flex justify-content-center navbar-nav">
+                <li class="nav-item" style="font-size: 1.3rem;">
+                    <a href="/index.html" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item" style="font-size: 1.3rem;">
+                    <a target="_blank" href="https://adnans.ml/contact-me/index.html" class="nav-link">Contact</a>
+                </li>
+                <li class="nav-item" style="font-size: 1.3rem;">
+                    <a href="#read-more" onclick="scrollToTarget()" class="nav-link">More</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <!-- dont place content above this comment -->
+    <h1 id="ttitle">Ten Cultural Cuisines</h1>
+	<ol>
+		<li>
+			<h2>Italian Cuisine</h2>
+			<p>Italian cuisine is known for its use of fresh ingredients and simple yet flavorful dishes. Pasta, pizza, and seafood are popular dishes, and Italian cuisine varies widely by region. (Source: <a href="https://www.delish.com/food-news/g34395586/italian-food-cuisine-regional-dishes/">Delish</a>)</p>
+		</li>
+		<li>
+			<h2>Mexican Cuisine</h2>
+			<p>Mexican cuisine is a mix of indigenous and European influences, with dishes featuring corn, beans, chilies, and spices. Tacos, tamales, and enchiladas are popular dishes. (Source: <a href="https://www.eater.com/maps/best-mexican-food-restaurant-city-map-guide">Eater</a>)</p>
+		</li>
+		<li>
+			<h2>Indian Cuisine</h2>
+			<p>Indian cuisine features a mix of spices and flavors, with dishes like curry, biryani, and naan. Regional cuisines vary widely, with influences from different religions and cultures. (Source: <a href="https://www.delish.com/food-news/g34395498/indian-food-cuisine-regional-dishes/">Delish</a>)</p>
+		</li>
+		<li>
+			<h2>Chinese Cuisine</h2>
+			<p>Chinese cuisine features a wide variety of dishes, with regional variations based on geography and historical influences. Popular dishes include dumplings, noodles, and stir-fries. (Source: <a href="https://www.eater.com/maps/best-chinese-food-restaurants-city-map-guide">Eater</a>)</p>
+		</li>
+		<li>
+			<h2>Japanese Cuisine</h2>
+			<p>Japanese cuisine emphasizes fresh ingredients and simple preparation, with dishes like sushi, tempura, and udon noodles. Regional cuisines vary widely across Japan. (Source: <a href="https://www.delish.com/food-news/g34395478/japanese-food-cuisine-regional-dishes/">Delish</a>)</p>
+		</li>
+		<li>
+			<h2>French Cuisine</h2>
+			<p>French cuisine is known for its rich sauces, buttery pastries, and complex flavors. Popular dishes include coq au vin, ratatouille, and croissants. (Source: <a href="https://www.eater.com/maps/best-french-food-restaurants-city-map-guide">Eater</a>)</p>
+		</li>
+		<li>
+			<h2>Thai Cuisine</h2>
+			<p>Thai cuisine features a mix of spicy, sweet, and sour flavors, with dishes like curries, noodles, and stir-fries. Regional variations include influences from neighboring countries. (Source: <a href="https://www.delish.com/food-news/g34395527/thai-food-cuisine-regional-dishes/">Delish</a>)</p>
+		</li>
+        <li>
+			<h2>Korean Cuisine</h2>
+			<p>Korean cuisine emphasizes fermentation and pickling, with dishes like kimchi, bibimbap, and bulgogi. (Source: <a href="https://www.eater.com/maps/best-korean-food-restaurants-city-map-guide">Eater</a>)</p>
+		</li>
+		<li>
+			<h2>Vietnamese Cuisine</h2>
+			<p>Vietnamese cuisine features a mix of fresh herbs, vegetables, and meats, with dishes like pho, banh mi, and spring rolls. (Source: <a href="https://www.delish.com/food-news/g34395488/vietnamese-food-cuisine-regional-dishes/">Delish</a>)</p>
+		</li>
+		<li>
+			<h2>Greek Cuisine</h2>
+			<p>Greek cuisine features Mediterranean flavors and ingredients, with dishes like moussaka, tzatziki, and souvlaki. (Source: <a href="https://www.eater.com/maps/best-greek-food-restaurants-city-map-guide">Eater</a>)</p>
+		</li>
+		<li>
+			<h2>Peruvian Cuisine</h2>
+			<p>Peruvian cuisine is a fusion of indigenous and Spanish influences, with dishes like ceviche, lomo saltado, and ají de gallina. (Source: <a href="https://www.delish.com/food-news/g34395521/peruvian-food-cuisine-regional-dishes/">Delish</a>)</p>
+		</li>
+		<li>
+			<h2>Lebanese Cuisine</h2>
+			<p>Lebanese cuisine features a mix of Mediterranean and Middle Eastern flavors, with dishes like tabbouleh, hummus, and shawarma. (Source: <a href="https://www.eater.com/maps/best-lebanese-food-restaurants-city-map-guide">Eater</a>)</p>
+		</li>
+		<li>
+			<h2>Thai Cuisine</h2>
+			<p>Thai cuisine features a mix of spicy, sweet, and sour flavors, with dishes like curries, noodles, and stir-fries. Regional variations include influences from neighboring countries. (Source: <a href="https://www.delish.com/food-news/g34395527/thai-food-cuisine-regional-dishes/">Delish</a>)</p>
+		</li>
+		<li>
+			<h2>Spanish Cuisine</h2>
+			<p>Spanish cuisine features a mix of regional specialties, with dishes like paella, tortilla española, and gazpacho. (Source: <a href="https://www.eater.com/maps/best-spanish-food-restaurants-city-map-guide">Eater</a>)</p>
+		</li>
+		<li>
+			<h2>Chinese Cuisine</h2>
+			<p>Chinese cuisine features a wide variety of dishes, with regional variations based on geography and historical influences. Popular dishes include dumplings, noodles, and stir-fries. (Source: <a href="https://www.eater.com/maps/best-chinese-food-restaurants-city-map-guide">Eater</a>)</p>
+		</li>
+        <li>
+			<h2>Indian Cuisine</h2>
+			<p>Indian cuisine features a mix of spices and flavors, with dishes like curry, biryani, and naan. Regional cuisines vary widely, with influences from different religions and cultures. (Source: <a href="https://www.delish.com/food-news/g34395498/indian-food-cuisine-regional-dishes/">Delish</a>)</p>
+		</li>
+		<li>
+			<h2>French Cuisine</h2>
+			<p>French cuisine is known for its rich sauces, buttery pastries, and complex flavors. Popular dishes include coq au vin, ratatouille, and croissants. (Source: <a href="https://www.eater.com/maps/best-french-food-restaurants-city-map-guide">Eater</a>)</p>
+		</li>
+		<li>
+			<h2>American Cuisine</h2>
+			<p>American cuisine is a melting pot of different cultures, with regional specialties like Southern barbecue, New England clam chowder, and Tex-Mex. (Source: <a href="https://www.delish.com/food-news/g34395580/american-food-cuisine-regional-dishes/">Delish</a>)</p>
+		</li>
+	</ol>
+    <!-- dont place content below this comment -->
+    <div class="container">
+		<h1 style="width: fit-content;margin: 0;padding: 0;">Read More: </h1> 
+	</div>
+    <div class="bg-white py-5 vw-100 d-flex justify-content-evenly align-items-center flex-wrap" id="holder__">
+       
+    </div>
+	<footer>
+        <p>&copy; 2023 Top Food Facts. All Rights Reserved.</p>
+    </footer>
+    <script src="/script/index.js"></script>
+    <script src="/script/all.js"></script>
+</body>
+</html>

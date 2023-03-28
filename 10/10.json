@@ -16,5 +16,23 @@
         "img": "meal-prep.jpg",
         "description": "Ten meal planning tips: plan ahead, use apps, create a grocery list, buy in bulk, cook in batches, meal prep, freezer meals, embrace leftovers, healthy options, consider food waste.",
         "url": "10/ten-meal-planning-tips"
+    },
+    {
+        "title": "Top ten Food Nutrition Facts",
+        "img": "nutrition.png",
+        "description": "Ten nutritious foods: blueberries, salmon, quinoa, spinach, sweet potatoes, almonds, Greek yogurt, oats, broccoli, and beans.",
+        "url": "10/ten-food-nutrition-facts"
+    },
+    {
+        "title": "Top Ten Food Trends",
+        "img": "food-trends.jpg",
+        "description": "Plant-based foods, alternative flours, flexitarianism, functional foods, low-alcohol drinks, regenerative agriculture, local and seasonal foods, food waste reduction, innovative snacks, and CBD-infused foods.",
+        "url": "10/ten-food-trends"
+    },
+    {
+        "title": "Top ten Cultural Cuisines",
+        "img": "cuisine.jpg",
+        "description": "The top ten cultural cuisines feature a variety of flavors and ingredients. From Italian to Indian, each cuisine showcases unique dishes and regional specialties.",
+        "url": "10/ten-cultural-cuisines"
     }
 ]
