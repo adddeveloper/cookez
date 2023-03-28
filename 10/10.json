@@ -1,6 +1,6 @@
 [
     {
-        "title": "Top ten spices used in cooking",
+        "title": "Top ten Spices Used In Cooking",
         "img": "Thanksgiving-dinner_700-1.jpg",
         "description": "Ten food safety practices: clean, cook, separate, refrigerate, safe materials, store properly, be aware, safe cooking, practice handling, high-risk foods.",
         "url": "10/ten-key-food-safety-practices"
@@ -10,5 +10,11 @@
         "img": "cooking-2.jpg",
         "description": "Ten cooking techniques: grilling, roasting, baking, sautéing, stir-frying, boiling, steaming, poaching, braising, frying. Each has unique characteristics for different foods.",
         "url": "10/ten-cooking-techniques"
+    },
+    {
+        "title": "Top ten Meal Planning Tips",
+        "img": "meal-prep.jpg",
+        "description": "Ten meal planning tips: plan ahead, use apps, create a grocery list, buy in bulk, cook in batches, meal prep, freezer meals, embrace leftovers, healthy options, consider food waste.",
+        "url": "10/ten-meal-planning-tips"
     }
 ]

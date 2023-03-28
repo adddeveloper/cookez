@@ -1,13 +1,10 @@
-let prevScrollPos = window.pageYOffset;
-window.onscroll = function() {
-  const currentScrollPos = window.pageYOffset;
-  const nav = document.getElementById("nav");
+window.onscroll = function() {changeNavbarBackground()};
 
-  if (prevScrollPos > currentScrollPos) {
-    nav.classList.remove("navbg");
+function changeNavbarBackground() {
+  var navbar = document.getElementById("nav");
+  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+    navbar.classList.add('navbg');
   } else {
-    nav.classList.add('navbg');
+    navbar.classList.remove("navbg");
   }
-
-  prevScrollPos = currentScrollPos;
 }

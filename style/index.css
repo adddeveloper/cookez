@@ -6,7 +6,7 @@ nav li a{
     color: white !important;
 }
 .navbg{
-    background-color: rgb(183, 155, 127, .3);
+    background-color: rgb(183, 155, 127);
 }
 
 .bg-img{
@@ -23,6 +23,7 @@ p,a{
 
 /* card */
 .crd{
+    margin: 2rem 1rem 2rem 1rem;
     background-color:rgb(183 155 127);
     background-repeat: no-repeat;
     background-position: top;
