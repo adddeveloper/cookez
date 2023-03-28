@@ -5,7 +5,110 @@ nav  a{
 nav li a{
     color: white !important;
 }
+.navbg{
+    background-color: rgb(183, 155, 127, .3);
+}
 
 .bg-img{
     background-image: url(/style/img/slidebakery.jpg);
+}
+
+*{
+    color: white;
+}
+
+p,a{
+    font-size: 1.3rem;
+}
+
+/* card */
+.crd{
+    background-color:rgb(183 155 127);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100% auto;
+    width: 20rem;
+    height: 25rem;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    flex-direction: column;
+    cursor: pointer;
+    /* border: solid 1px black; */
+    border-radius: 20px;
+}
+
+.crd img{
+    width: 100%;
+    height: 10rem;
+    transition: all ease 2s;
+    opacity: 0;
+}
+
+.crd:hover img{
+    height: 8rem;
+}
+
+.crd div{
+    background-color:rgb(183 155 127);
+    width: 100%;
+    height: 100%;
+    padding: .1rem 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0 0 20px 20px;
+}
+
+.crd div h1{
+    font-size: 1.2rem;
+}
+
+.crd div p{
+    font-size: 1rem;
+}
+
+.crd div h1, .crd div p{
+    color: black;
+}
+
+footer{
+    background-color:rgb(183 155 127);
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p{
+    color: black;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ scoll ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+::-webkit-scrollbar{
+    width: 5px;
+    height: 5px;
+}
+
+::-webkit-scrollbar-thumb{
+    background: #3d3d3d;
+    border-radius: 0;
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background: #333;
+    border-radius: 0;
+}
+
+::-webkit-scrollbar-thumb:active{
+    background: #333;
+    border-radius: 0 50px 50px 0;
+}
+
+::-webkit-scrollbar-track{
+    background: #F0F0F0;
+    border-radius: 0px;
+    box-shadow: inset 0px 0px 0px 0px #F0F0F0;
+    border-left: solid 1px #333;
 }
