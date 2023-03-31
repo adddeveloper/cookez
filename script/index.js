@@ -1,3 +1,7 @@
+function go_r(x){
+  location.replace('/recipes/#'+x)
+}
+
 window.onscroll = function() {changeNavbarBackground()};
 
 function changeNavbarBackground() {
@@ -8,3 +12,11 @@ function changeNavbarBackground() {
     navbar.classList.remove("navbg");
   }
 }
+
+
+window.addEventListener("load", ()=>{
+  if(window.location.href.split("#")[1] == "read-more"){
+    var holder = document.getElementById("holder__");
+    holder.scrollIntoView({ behavior: 'smooth' });
+  }
+})

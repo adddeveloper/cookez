@@ -1,0 +1,75 @@
+{
+  "taco_soup": {
+    "description": "Hearty and flavorful Taco Soup with ground beef, beans, and corn. Served with cheese, sour cream, and tortilla chips.",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 onion, diced",
+      "1 bell pepper, diced",
+      "1 can diced tomatoes",
+      "1 can black beans, drained and rinsed",
+      "1 can corn, drained",
+      "1 packet taco seasoning",
+      "4 cups chicken broth",
+      "1 cup shredded cheddar cheese",
+      "Sour cream, for serving",
+      "Tortilla chips, for serving"
+    ],
+    "instructions": [
+      "Brown ground beef in a large pot over medium heat.",
+      "Add onion and bell pepper, cook until softened.",
+      "Add diced tomatoes, black beans, corn, taco seasoning, and chicken broth.",
+      "Bring to a boil, reduce heat and simmer for 20-25 minutes.",
+      "Ladle soup into bowls and top with shredded cheese, sour cream, and tortilla chips."
+    ],
+    "img":"exps8202_PR15D03_03_2b.jpg"
+  },
+  "cheddar_bay_biscuit_cobbler": {
+    "description": "A savory cobbler made with cheese biscuits and a creamy shrimp and vegetable filling.",
+    "ingredients": [
+      "1 lb medium shrimp, peeled and deveined",
+      "1 onion, chopped",
+      "2 garlic cloves, minced",
+      "2 cups frozen mixed vegetables",
+      "1/2 cup mayonnaise",
+      "1/2 cup sour cream",
+      "1/4 cup grated Parmesan cheese",
+      "1/4 cup milk",
+      "1 tbsp lemon juice",
+      "1 tsp dried parsley",
+      "1/2 tsp garlic powder",
+      "Salt and pepper to taste",
+      "2 cups baking mix",
+      "2/3 cup milk",
+      "1/2 cup shredded cheddar cheese",
+      "1/4 cup butter, melted"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F.",
+      "In a pan, sauté shrimp, onion, and garlic over medium heat until shrimp is pink and vegetables are tender.",
+      "Stir in mixed vegetables, mayonnaise, sour cream, Parmesan cheese, milk, lemon juice, parsley, garlic powder, salt, and pepper.",
+      "Pour mixture into a 9-inch baking dish.",
+      "In a bowl, combine baking mix, milk, cheddar cheese, and melted butter.",
+      "Drop spoonfuls of the biscuit mixture over the shrimp mixture.",
+      "Bake for 20-25 minutes, until biscuits are golden brown and filling is bubbly."
+    ],
+    "img": "Cheddar-Bay-Biscuit-Chicken-Cobbler-ddmfs-3x4-1-f90dd44c4c98447a8121268179e5909b.webp"
+  },
+  "cheesy_bean_salsa_chicken": {
+    "description": "A cheesy and flavorful chicken dish made with salsa, black beans, corn, and cheddar cheese.",
+    "ingredients": [
+      "4 boneless, skinless chicken breasts",
+      "1 cup salsa",
+      "1 can black beans, rinsed and drained",
+      "1 cup frozen corn",
+      "1/2 cup cheddar cheese, shredded"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F.",
+      "Place chicken in a baking dish and cover with salsa.",
+      "Add black beans and corn on top of the chicken.",
+      "Bake for 25-30 minutes or until the chicken is cooked through.",
+      "Sprinkle cheddar cheese over the chicken and bake for another 5-10 minutes until cheese is melted."
+    ],
+    "img":"cheesy-bean-salsa-chicken-2-300x300.jpg"
+  }
+}
