@@ -34,5 +34,59 @@
         "img": "cuisine.jpg",
         "description": "The top ten cultural cuisines feature a variety of flavors and ingredients. From Italian to Indian, each cuisine showcases unique dishes and regional specialties.",
         "url": "10/ten-cultural-cuisines"
+    },
+    {
+        "title": "Top Ten Books About Food",
+        "img": "Fall-Cookbook-Roundup-FT-BLOG0922-15731127de6a4bf2845c0a3ab85694b1.jpg",
+        "description": "Top 10 books on food: basics of cooking, food system criticism, science, flavor, restaurant industry, cuisine mastery, traditional wisdom, cooking science, memoirs, global cuisine.",
+        "url": "10/ten-books-about-food"
+    },
+    {
+        "title": "Top Ten Best Food Restaurants in the World",
+        "img": "W50BR22-Fyn-Interior.jpg",
+        "description": "Top ten best food restaurants globally, featuring exceptional cuisine, innovative techniques, and notable awards and accolades.",
+        "url": "10/ten-best-food-restaurants-in-the-World"
+    },
+    {
+        "title": "Top Ten Travel Destinations for Food Lovers",
+        "img": "Enchanting-Travels-Asia-Hong-Kong-9.webp",
+        "description": "Top ten global travel destinations with diverse cuisine, vibrant culinary scenes, and notable food experiences for food lovers.",
+        "url": "10/ten-travel-destinations-for-food-lovers"
+    },
+    {
+        "title": "Top Ten Underrated Food Cities Around the World",
+        "img": "underrated-food-cities.jpg",
+        "description": "Top ten underrated food cities with diverse cuisine and local specialties from around the world for food lovers.",
+        "url": "10/ten-underrated-food-cities-around-the-world"
+    },
+    {
+        "title": "Top Ten Kitchen Gadgets Every Home Cook Should Have",
+        "img": "best-kitchen-gadgets-under-50.webp",
+        "description": "Top ten essential kitchen gadgets for home cooks with versatile uses and easy-to-use designs.",
+        "url": "10/ten-kitchen-gadgets-every-home-cook-should-have"
+    },
+    {
+        "title": "Top Ten Creative Ways to Use Leftovers",
+        "img": "Leftovers.jpg",
+        "description": "Top ten creative and easy ways to use leftovers to reduce food waste and make delicious meals.",
+        "url": "10/ten-creative-ways-to-use-leftovers"
+    },
+    {
+        "title": "Top Ten Vegan or Vegetarian Recipes for Meat-Lovers",
+        "img": "Vegetarian-Recipes.jpg",
+        "description": "Top ten hearty and flavorful vegan/vegetarian recipes for meat-lovers, showcasing plant-based meals can be just as satisfying.",
+        "url": "10/ten-vegan-or-vegetarian-recipes-for-meat-lovers"
+    },
+    {
+        "title": "Top Ten Best Food-Themed Books for Kids",
+        "img": "books4.webp",
+        "description": "Engage young readers with delightful food-themed stories that inspire creativity and curiosity. From picture books to chapter books.",
+        "url": "10/ten-best-food-themed-books-for-kids"
+    },
+    {
+        "title": "Top Ten DIY Food Gift Ideas for Holidays and Special Occasions",
+        "img": "Hot-Chocolate-Bombs_EXPS_HCBZ21_261728_B05_19_6b.jpg",
+        "description": "Show your loved ones you care with these delicious and creative DIY food gift ideas for holidays and special occasions.",
+        "url": "10/ten-diy-food-gift-ideas-for-holidays-and-special-occasions"
     }
 ]
