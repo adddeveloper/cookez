@@ -45,7 +45,8 @@ function clean(s){
 function upload(x,y,n){
     if(n=="top"){
         x.forEach((e,i)=>{
-                y.innerHTML+=
+                if(window.location.href.split("/")[3] == "" || window.location.href.split("/")[3] == "index.html"){
+                    y.innerHTML+=
                 '<div onclick="go(\''+e.url+'\')" style="background-image: url(/style/img/'+e.img+');" class="crd">'+
                     '<img src="/style/img/'+e.img+'"></img>'+
                     '<div>'+
@@ -53,6 +54,16 @@ function upload(x,y,n){
                             '<p>'+e.description+'</p>'+
                     '</div>'+
                 '</div>';
+                } else if(i<=2){
+                    y.innerHTML+=
+                    '<div onclick="go(\''+e.url+'\')" style="background-image: url(/style/img/'+e.img+');" class="crd">'+
+                        '<img src="/style/img/'+e.img+'"></img>'+
+                        '<div>'+
+                                '<h1>'+capitalizeFirstLetter(e.title)+'</h1>'+
+                                '<p>'+e.description+'</p>'+
+                        '</div>'+
+                    '</div>';
+                }
         })
     }
     if(n=="recipes"){
