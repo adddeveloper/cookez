@@ -220,6 +220,12 @@
         "img": "brain.jpg",
         "description": "Indulge in these ten decadent dessert recipes that are perfect for celebrating special occasions and treating yourself to something sweet and delicious.",
         "url": "10/top-10-foods-to-eat-for-brain-health"
+    },
+    {
+        "title": "Top Ten Food-related TED Talks to Watch",
+        "img": "bill-gates-at-ted-talks-education.webp",
+        "description": "Top ten inspiring food-related TED Talks covering topics like food justice, sustainability, and cultural exploration.",
+        "url": "10/ten-food-related-ted-talks-to-watch"
     }
     
 
