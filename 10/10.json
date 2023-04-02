@@ -100,5 +100,127 @@
         "img": "streetfood.jpg",
         "description": "A list of delicious street foods from around the world, including Banh Mi, Poutine, Empanadas, Tacos, and more.",
         "url": "10/ten-popular-street-foods-from-different-countries"
+    },
+    {
+        "title": "Top 10 Foods That Can Help Improve Your Skin Health",
+        "img": "Skin.png",
+        "description": "Explore these ten nutritious foods that can enhance the health of your skin, giving it a vibrant and healthy glow.",
+        "url": "10/top-10-foods-that-can-help-improve-your-skin-health"
+    },
+    {
+        "title": "Top 10 Foods That Can Help Improve Your Eye Health",
+        "img": "Eye.jpg",
+        "description": "Discover the top 10 foods that are not only delicious but also beneficial for improving the health of your eyes.",
+        "url": "10/top-10-foods-that-can-help-improve-your-eye-health"
+    },
+    {
+        "title": "Top 10 Foods for Weight Loss",
+        "img": "Weight.jpg",
+        "description": "These ten nutritious and tasty foods can help you achieve your weight loss goals in a healthy and sustainable way.",
+        "url": "10/top-10-foods-for-weight-loss"
+    },
+    {
+        "title": "Top 10 Foods That Can Help Lower Your Cholesterol",
+        "img": "cholest.jpg",
+        "description": "Incorporate these ten heart-healthy foods into your diet to help lower your cholesterol levels and maintain good cardiovascular health.",
+        "url": "10/top-10-foods-that-can-help-lower-your-cholesterol"
+    },
+    {
+        "title": "Top 10 Foods That Can Help Reduce Inflammation",
+        "img": "plant.jpg",
+        "description": "Add these 10 anti-inflammatory foods to your diet to reduce inflammation in your body, which can help alleviate symptoms of chronic diseases and promote overall wellness.",
+        "url": "10/top-10-foods-that-can-help-reduce-inflammation"
+    },
+    {
+        "title": "Top 10 Superfoods You Should Be Eating",
+        "img": "super.jpg",
+        "description": "Discover the top 10 superfoods that are packed with nutrients and health benefits, and can be easily incorporated into your daily diet.",
+        "url": "10/top-10-superfoods-you-should-be-eating"
+    },
+    {
+        "title": "Top 10 Foods That Can Help Lower Your Blood Pressure",
+        "img": "blood.jpg",
+        "description": "Incorporating these ten heart-healthy foods into your diet can help lower your blood pressure and reduce your risk of developing hypertension and other cardiovascular diseases.",
+        "url": "10/top-10-foods-that-can-help-lower-your-blood-pressure"
+    },
+    {
+        "title": "Top 10 Foods That Can Help Reduce Your Risk of Cancer",
+        "img": "cancer.jpg",
+        "description": "By adding these 10 cancer-fighting foods to your diet, you can potentially reduce your risk of developing cancer and promote overall health and well-being.",
+        "url": "10/top-10-foods-that-can-help-reduce-your-risk-of-cancer"
+    },
+    {
+        "title": "Top 10 Foods to Eat After a Workout",
+        "img": "after.jpg",
+        "description": "These ten delicious and nutritious foods can help you recover after a workout by replenishing your energy stores and promoting muscle repair and growth.",
+        "url": "10/top-10-foods-to-eat-after-a-workout"
+    },
+    {
+        "title": "Top 10 Foods to Eat Before a Workout",
+        "img": "before.jpg",
+        "description": "Fuel up before your workout with these 10 nutritious and energizing foods that can help you maximize your performance and achieve your fitness goals.",
+        "url": "10/top-10-foods-to-eat-before-a-workout"
+    },
+    {
+        "title": "Top Ten Decadent Dessert Recipes for Special Occasions",
+        "img": "cake1.jpg",
+        "description": "Indulge in these ten decadent dessert recipes that are perfect for celebrating special occasions and treating yourself to something sweet and delicious.",
+        "url": "10/top-ten-decadent-dessert-recipes-for-special-occasions"
+    },
+    {
+        "title": "Top Ten Budget-Friendly Recipes",
+        "img": "budget.jpg",
+        "description": "Enjoy these ten budget-friendly recipes that are not only easy on your wallet but also delicious and satisfying, proving that eating well doesn't have to break the bank.",
+        "url": "10/top-ten-budget-friendly-recipes"
+    },
+    {
+        "title": "Top Ten Meal Ideas for Kids that Are Actually Healthy",
+        "img": "kids.jpg",
+        "description": "These ten meal ideas for kids are not only delicious and fun, but also packed with nutritious ingredients that can help promote their growth and development in a healthy way.",
+        "url": "10/top-ten-meal-ideas-for-kids-that-are-actually-healthy"
+    },
+    {
+        "title": "Top Ten Grilling Recipes for Summer",
+        "img": "Yummy.jpg",
+        "description": "Fire up the grill and try out these ten mouth-watering grilling recipes that are perfect for summer, from juicy burgers to flavorful kebabs and much more.",
+        "url": "10/top-ten-grilling-recipes-for-summer"
+    },
+    {
+        "title": "Top Ten Classic Dishes from Around the World",
+        "img": "awf.jpg",
+        "description": "Embark on a culinary journey with these ten classic dishes from around the world, from Italian pasta and French croissants to Japanese sushi and Mexican tacos, and experience the unique flavors and cultures of different countries.",
+        "url": "10/top-ten-classic-dishes-from-around-the-world"
+    },
+    {
+        "title": "Top Ten Easy and Delicious Smoothie Recipes",
+        "img": "smooth.jpg",
+        "description": "Blend up your breakfast or snack routine with these ten easy and delicious smoothie recipes that are packed with nutritious ingredients and can be whipped up in no time.",
+        "url": "10/top-ten-easy-and-delicious-smoothie-recipes"
+    },
+    {
+        "title": "Top Ten Authentic Street Foods from Around the World",
+        "img": "street.png",
+        "description": "Experience the delicious and authentic flavors of different cultures with these ten street foods from around the world, from Indian chaat and Moroccan tagine to Greek souvlaki and Vietnamese pho, and more.",
+        "url": "10/top-ten-authentic-street-foods-from-around-the-world"
+    },
+    {
+        "title": "Top 10 Foods That Can Help Improve Your Athletic Performance",
+        "img": "athletic.jpg",
+        "description": "Fuel up for peak athletic performance with these 10 nutritious foods that can enhance endurance, strength, and overall athletic performance.",
+        "url": "10/top-10-foods-that-can-help-improve-your-athletic-performance"
+    },
+    {
+        "title": "Top 10 Foods to Boost Your Immune System",
+        "img": "immune.jpg",
+        "description": "Strengthen your immune system with these ten nutrient-dense foods that can help your body fight off infections, prevent illnesses, and promote overall wellness.",
+        "url": "10/top-10-foods-to-boost-your-immune-system"
+    },
+    {
+        "title": "Top 10 Foods to Eat for Brain Health",
+        "img": "brain.jpg",
+        "description": "Indulge in these ten decadent dessert recipes that are perfect for celebrating special occasions and treating yourself to something sweet and delicious.",
+        "url": "10/top-10-foods-to-eat-for-brain-health"
     }
+    
+
 ]
