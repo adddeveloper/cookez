@@ -1,5 +1,9 @@
-body{
+body,html{
     overflow-x: hidden;
+}
+
+.cursor-pointer{
+    cursor: pointer;
 }
 li{
     border: none !important;
