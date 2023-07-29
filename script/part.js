@@ -1,6 +1,12 @@
+var link = document.createElement("link");
+link.rel = "stylesheet";
+link.href = "path/to/bootstrap-icons.css";
+document.head.appendChild(link);
+
 // amazon
 function go_amazon(x){
     var a = document.createElement("a");
+    a.target ="_blank";
     a.href = x;
     a.click(); 
 }
@@ -10,7 +16,7 @@ function place_amazon(x){
     d.addEventListener("click", ()=>{
         go_amazon(amazondata[x].url);
     })
-    d.classList.add("container-fluid", "bg-light", "text-light", "fixed-bottom", "cursor-pointer");
+    d.classList.add("container-fluid", "d-flex", "justify-content-evenly", "align-items-center","bg-white", "shadow-lg", "text-black", "cursor-pointer");
     
     var dd = document.createElement("div");
     dd.classList.add("p-2")
@@ -20,9 +26,10 @@ function place_amazon(x){
     var ddd = document.createElement("div");
     var h = document.createElement("h2");
     h.innerHTML = amazondata[x].name;
+    ddd.appendChild(h)
 
     d.appendChild(ddd);
-    document.body.appendChild(d);
+    document.getElementById("holder__").appendChild(d);
 }
 
 var amazondata = []
@@ -31,6 +38,6 @@ fetch("/am.json")
 .then(d=>{
     amazondata = d;
     if(location.href.split("/").length > 4){
-        // place_amazon(Math.floor(Math.random()*amazondata.length))
+        place_amazon(Math.floor(Math.random()*amazondata.length))
     }
 })
