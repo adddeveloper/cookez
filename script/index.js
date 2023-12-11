@@ -20,3 +20,5 @@ window.addEventListener("load", ()=>{
     holder.scrollIntoView({ behavior: 'smooth' });
   }
 })
+
+    document.querySelector("footer").innerHTML += " <a href='https://cookez.info/privacypolicy.html'>Privacy Policy</a>"; document.querySelector("footer p").style.margin = "0";
